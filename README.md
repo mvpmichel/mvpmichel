@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Michel</h1>
 <h3 align="center">Desenvolvedor front end</h3>
 
-- 🔭 Atualmente desenvolvendo meu portfólio em [Portfólio pessoal](mvp-portfolio-epizy.com)
+- 🔭 Atualmente desenvolvendo meu site pessaol em [Site pessoal](eu-michel-epizy.com)
 
 - 🌱 Atualmente aprendendo **JavaScript, React/Native, nodeJS, VueJS**
 
