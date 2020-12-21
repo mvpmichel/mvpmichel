@@ -1,11 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou Michel</h1>
 <h3 align="center">Desenvolvedor front end</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvpmichel" alt="mvpmichel" /></a> </p>
+- 🔭 Atualmente desenvolvendo meu portfólio em [Portfólio pessoal](mvp-portfolio-epizy.com)
 
-- 🔭 I’m currently working on [Portfólio pessoal](mvp-portfolio-epizy.com)
-
-- 🌱 I’m currently learning **JavaScript, React/Native, nodeJS, VueJS**
+- 🌱 Atualmente aprendendo **JavaScript, React/Native, nodeJS, VueJS**
 
 - 👨‍💻 Todos os meu projetos [http://mvp-portfolio.epizy.com/](http://mvp-portfolio.epizy.com/)
 
