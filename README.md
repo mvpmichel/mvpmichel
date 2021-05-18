@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michel</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript, ReactJS**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [http://mvp-portfolio.epizy.com/](http://mvp-portfolio.epizy.com/)
 
